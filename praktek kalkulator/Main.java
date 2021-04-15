@@ -1,4 +1,4 @@
-package com.a11_2019_11918;
+package com.a11_2019_11675;
 import java.util.Scanner;
 
 public class Main {
